@@ -1,5 +1,3 @@
-# Breaking Bad Cast
-
 # Usage
 
 ```
